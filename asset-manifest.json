@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my-stove-app/static/css/main.bcc4b491.css",
+    "main.js": "/my-stove-app/static/js/main.b8ac1794.js",
+    "static/media/pl.png": "/my-stove-app/static/media/pl.05373d3b0c1b41f9e811.png",
+    "index.html": "/my-stove-app/index.html",
+    "main.bcc4b491.css.map": "/my-stove-app/static/css/main.bcc4b491.css.map",
+    "main.b8ac1794.js.map": "/my-stove-app/static/js/main.b8ac1794.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcc4b491.css",
+    "static/js/main.b8ac1794.js"
+  ]
+}
